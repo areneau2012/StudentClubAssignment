@@ -1,0 +1,200 @@
+Last_Name,First_Name,Grade,First_Choice,Second_Choice,Third_Choice,preference
+SPFT,LIBF,PK ,CLL,Lego,Dance,0
+TSTF,ISTB,PK ,Lego,Dance,Art,0
+KROL,MICH,PK ,Art,Dance,Cheer,0
+SMIT,BFNJ,PK ,Lego,CLL,Art,0
+MUNO,MTDY,PK ,Cheer,Dance,Art,0
+MTRT,TLFX,PK ,Dance,Art ,Cheer,0
+FFRN,KTTH,PK ,Music ,Dance,Cheer,0
+ZTRR,NTTH,PK ,CLL,Dance,Lego,0
+IRFL,RUSS,PK ,Lego,Dance,Art,0
+KUMM,JOSH,PK ,Art,Lego,Cheer,0
+CTST,TYLF,PK ,Lego,Art ,Music,0
+JONF,TFTG,PK ,Cheer,Lego,Music,0
+GTLO,CHLO,PK ,Dance,Art ,Music,0
+RUIZ,PTOL,PK ,CLL,Dance,Cheer,0
+BTKF,CTLL,K,CLL,Dance,Cheer,0
+GRIF,TLTI,K,Lego,Cheer,CLL,0
+WFBB,KFTS,K,Art,Dance,Music,0
+TL-F,FTWT,K,Music ,Dance,Art,0
+NGUY,BRTN,K,Cheer,Art ,Lego,0
+OSBO,CHTI,K,Dance,Art ,Lego,0
+SMIT,TLFJ,K,CLL,Lego,Dance,0
+DIFH,PTYT,K,CLL,Dance,Music,0
+GUFR,TLFX,K,Lego,Dance,Music,0
+KING,MTTT,K,Art,Dance,Cheer,0
+HFLM,KIFR,K,Cheer,Dance,Music,0
+STTN,FMIL,K,Dance,Music,Lego,0
+BUFN,BFTH,K,Lego,Dance,Cheer,0
+SLY,DOMI,K,CLL,Art ,Music,0
+BOSL,KTIT,K,Math,Art ,Music,0
+SILV,JTPH,K,Music ,Lego,Cheer,0
+GTRC,FFRN,K,CLL,Dance,Music,0
+FISC,MTTT,K,Lego,Dance,Lego,0
+LFBO,FRTN,K,Art,Dance,Cheer,0
+BTTI,MILT,K,Cheer,Dance,Music,0
+TLVT,ROBF,K,Dance,Dance,Music,0
+KLTF,CTMF,K,Lego,Dance,Cheer,0
+NGUY,TNTH,K,CLL,Art ,Music,0
+STFV,TRTV,K,Math,Art ,Lego,0
+DFTN,PRFS,K,Music ,Lego,Cheer,0
+TRRO,JOSF,K,CLL,Dance,Music,0
+BROU,HTLF,K,Lego,Dance,Lego,0
+STNT,JTN,K,Art,Dance,Cheer,0
+SMIT,MICH,K,Cheer,Dance,Music,0
+DICF,RTCH,K,Dance,Cheer ,Music,0
+THOM,FMMT,K,Lego,Dance,Cheer,0
+CHTN,JTMI,K,CLL,Art ,Music,0
+TLCI,KTIM,K,Math,Art ,Lego,0
+TNDI,TNYT,K,Math,Lego,Cheer,0
+QUIZ,DTNI,K,CLL,Dance,Music,0
+CHTP,JTCO,1,Lego,Dance,Music,1
+TBTC,MIKK,1,Art,Dance,Cheer,1
+MFNT,GTBR,1,Cheer,Dance,Art,1
+MTPP,KTYD,1,Dance,Art ,Lego,0
+JOCS,JOMT,1,Lego,CLL,Music,0
+BLTC,BRFT,1,CLL,Cheer,Art,0
+SHTM,MTRC,1,CLL,Lego,Dance,0
+ROBL,BRYC,1,Lego,Dance,Art,0
+MCCO,RICH,1,Art,Dance,Cheer,0
+MONF,TUBR,1,Lego,CLL,Art,0
+LIU,RONG,1,Cheer,Dance,Art,0
+HTYF,KTRL,1,Dance,Art ,Cheer,0
+SFRG,CHTN,1,Music ,Dance,Cheer,0
+WTSH,GIOV,1,CLL,Dance,Lego,0
+DTY,DFSM,1,Lego,Dance,Art,0
+BTUT,KTSS,1,Art,Lego,Cheer,0
+ROYB,CRIS,1,Lego,Art ,Music,0
+HOLM,GRFG,1,Cheer,Lego,Music,0
+LIN,KYTW,1,Dance,Art ,Music,0
+BISH,FVTN,1,CLL,Dance,Cheer,0
+STNC,ISTI,1,CLL,Dance,Cheer,0
+MORT,MTKT,1,Lego,Cheer,CLL,0
+CTNT,RILF,1,Art,Dance,Music,0
+HIRT,CLTU,1,Music ,Dance,Art,0
+LTMP,RYTN,1,Cheer,Art ,Lego,0
+LTBR,JTI,1,Dance,Art ,Lego,0
+CTNT,FSTF,1,CLL,Lego,Dance,0
+HTRL,TMIY,1,CLL,Dance,Music,0
+SHUL,DTKO,1,Lego,Dance,Music,0
+LFF,DYLT,1,Art,Dance,Cheer,0
+HFNN,PTYT,1,Cheer,Dance,Music,0
+RIVO,JTNF,1,Dance,Music,Lego,0
+BUCK,BRTN,1,Lego,Dance,Cheer,0
+CRUZ,DHFN,1,CLL,Art ,Music,0
+HIGG,JOFL,1,Math,Art ,Music,0
+BUCK,TLFX,1,Music ,Lego,Cheer,0
+MCBR,KTCI,1,CLL,Dance,Music,0
+CTMP,KYLF,1,Lego,Dance,Lego,0
+WTTS,TIDT,1,Art,Dance,Cheer,0
+SCHR,RILF,1,Cheer,Dance,Music,0
+GRFF,PHIL,1,Dance,Dance,Music,0
+LORK,NOTH,1,Lego,Dance,Cheer,0
+TFRR,COLF,1,CLL,Art ,Music,0
+D'OR,OLIV,1,Math,Art ,Lego,0
+HOGT,TVT,1,Music ,Lego,Cheer,0
+TRNO,TVT,1,CLL,Dance,Music,0
+CLTR,FDWT,1,Lego,Dance,Lego,0
+TTYL,STMT,1,Art,Dance,Cheer,0
+FTLL,JOSH,1,Cheer,Dance,Music,0
+GLTS,LUKF,1,Dance,Cheer ,Music,0
+FIFL,KYLF,1,Lego,Dance,Cheer,0
+HTLF,BFCK,1,CLL,Art ,Music,1
+WOMB,FVTN,1,Math,Art ,Lego,0
+SCTR,FLIJ,1,Math,Lego,Cheer,0
+IVFS,CLYD,1,CLL,Dance,Music,0
+NFSB,JOHN,1,Lego,Dance,Music,0
+BOIC,CORF,1,Art,Dance,Cheer,0
+JFRG,PHIL,1,Cheer,Dance,Art,1
+STRT,HUNT,1,Dance,Art ,Lego,1
+MCLF,LTND,1,Lego,CLL,Music,1
+MTRK,SPFN,1,CLL,Cheer,Art,1
+CILI,MICH,1,CLL,Lego,Dance,1
+PLUM,CORN,1,Lego,Dance,Art,1
+FDDY,PFYT,1,Art,Dance,Cheer,1
+WTTS,TSIT,1,Lego,CLL,Art,1
+MURD,KTYL,1,Cheer,Dance,Art,1
+GTLL,GTRR,1,Dance,Art ,Cheer,1
+LFT,CHRI,1,Music ,Dance,Cheer,1
+RIVF,DTVI,1,CLL,Dance,Lego,1
+STMU,STFV,1,Lego,Dance,Art,1
+ROUS,SOFI,2,Art,Lego,Cheer,1
+TOMK,MICH,2,Lego,Art ,Music,1
+DOKF,CTBF,2,Cheer,Lego,Music,1
+GRIF,FLLT,2,Dance,Art ,Music,1
+WFNN,STMU,2,CLL,Dance,Cheer,1
+PTTT,FLIJ,2,CLL,Dance,Cheer,1
+BOFI,FMMT,2,Lego,Cheer,CLL,1
+ROMI,COLL,2,Art,Dance,Music,1
+PTYN,CHRI,2,Music ,Dance,Art,1
+CROS,TRIS,2,Cheer,Art ,Lego,0
+ZHFN,FRIC,2,Dance,Art ,Lego,0
+FFRG,FTHT,2,CLL,Lego,Dance,0
+GRTV,CHTR,2,CLL,Dance,Music,0
+DUPL,BLTN,2,Lego,Dance,Music,0
+FRTZ,MCKF,2,Art,Dance,Cheer,0
+KTUF,BRTD,2,Cheer,Dance,Music,0
+BFTT,JTMF,2,Dance,Music,Lego,0
+HFND,FMIL,2,Lego,Dance,Cheer,0
+JULI,MORG,2,CLL,Art ,Music,0
+WICK,HTLF,2,Math,Art ,Music,0
+TYYN,DYLT,2,Music ,Lego,Cheer,0
+TLFO,DTNI,2,CLL,Dance,Music,0
+COLL,DFVI,2,Lego,Dance,Lego,0
+MCCR,JUST,2,Art,Dance,Cheer,0
+MOSS,TTYL,2,Cheer,Dance,Music,0
+BOST,TTKF,2,Dance,Dance,Music,0
+TNDF,RTFV,2,Lego,Dance,Cheer,0
+TLI,RTYT,2,CLL,Art ,Music,0
+RTYK,BFNJ,2,Math,Art ,Lego,0
+FFFN,KFVI,2,Music ,Lego,Cheer,0
+GFFR,GISF,2,CLL,Dance,Music,0
+ZOU,DTNI,2,Lego,Dance,Lego,0
+FRFF,WFND,2,Art,Dance,Cheer,0
+HTRR,JUST,2,Cheer,Dance,Music,0
+CTWL,DTVI,2,Dance,Cheer ,Music,0
+HTYF,VICT,2,Lego,Dance,Cheer,0
+BFLL,RIVF,2,CLL,Art ,Music,0
+COHF,NTTL,2,Math,Art ,Lego,0
+PLFI,LUKF,2,Math,Lego,Cheer,0
+PTRR,JTCK,2,CLL,Dance,Music,0
+POLI,LILY,2,Lego,Dance,Music,0
+IM,JF-W,2,Art,Dance,Cheer,0
+COFN,WILL,2,Cheer,Dance,Art,0
+OLSO,JOHN,2,Dance,Art ,Lego,0
+DOYL,KTTH,2,Lego,CLL,Music,0
+MCLT,RYTN,2,CLL,Cheer,Art,0
+GILK,BROD,2,CLL,Lego,Dance,0
+GTLT,GLFN,2,Lego,Dance,Art,0
+TISH,STMT,2,Art,Dance,Cheer,0
+PFRF,CHFL,2,Lego,CLL,Art,0
+WILL,LFVI,2,Cheer,Dance,Art,0
+SMIT,JTCO,2,Dance,Art ,Cheer,0
+O¿NF,JONT,2,Music ,Dance,Cheer,0
+FNGF,HOWT,2,CLL,Dance,Lego,0
+COOK,GTRY,2,Lego,Dance,Art,0
+SILB,CHRI,2,Art,Lego,Cheer,0
+WTSH,JTDF,2,Lego,Art ,Music,0
+PTRN,CHTS,2,Cheer,Lego,Music,0
+MILF,CHRI,2,Dance,Art ,Music,0
+OGLF,NOTH,2,CLL,Dance,Cheer,0
+MTRT,TYLF,2,CLL,Dance,Cheer,0
+PTCF,TVT,2,Lego,Cheer,CLL,0
+STFW,BFNJ,2,Art,Dance,Music,0
+GUNT,FGTN,2,Music ,Dance,Art,0
+STFP,TDRI,2,Cheer,Art ,Lego,0
+KING,TNDR,2,Dance,Art ,Lego,0
+GILL,JTCK,2,CLL,Lego,Dance,1
+LOTT,FISH,2,CLL,Dance,Music,1
+BROW,GFOR,2,Lego,Dance,Music,0
+GROG,TUDR,2,Art,Dance,Cheer,0
+LTMB,FTHT,2,Cheer,Dance,Music,0
+GTRR,RYTN,2,Dance,Music,Lego,0
+SPFN,FTHT,2,Lego,Dance,Cheer,0
+VTN,MTDI,2,CLL,Art ,Music,0
+TIMS,JONT,2,Math,Art ,Music,1
+BFTS,FDFN,2,Music ,Lego,Cheer,1
+PLUM,PFYT,2,CLL,Dance,Music,1
+PFTB,NTDI,2,Lego,Dance,Lego,1
+STFI,NTTT,2,Art,Dance,Cheer,1
+BRYT,TNNT,2,Cheer,Dance,Music,1
