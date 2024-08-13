@@ -1,18 +1,26 @@
 Last_Name,First_Name,Grade,First_Choice,Second_Choice,Third_Choice,preference
-SPFT,LIBF,PK ,CLL,Lego,Dance,0
-TSTF,ISTB,PK ,Lego,Dance,Art,0
-KROL,MICH,PK ,Art,Dance,Cheer,0
+SPFT,LIBF,PK ,Math,Lego,Dance,0
+TSTF,ISTB,PK ,Glee,Dance,Art,0
+KROL,MICH,PK ,PE,Dance,Cheer,0
 SMIT,BFNJ,PK ,Lego,CLL,Art,0
 MUNO,MTDY,PK ,Cheer,Dance,Art,0
-MTRT,TLFX,PK ,Dance,Art ,Cheer,0
+MTRT,TLFX,PK ,STEAM,Art ,Cheer,0
 FFRN,KTTH,PK ,Music ,Dance,Cheer,0
 ZTRR,NTTH,PK ,CLL,Dance,Lego,0
-IRFL,RUSS,PK ,Lego,Dance,Art,0
-KUMM,JOSH,PK ,Art,Lego,Cheer,0
+IRFL,RUSS,PK ,Intro Cheer,Dance,Art,0
+KUMM,JOSH,PK ,Zoo,Lego,Cheer,0
 CTST,TYLF,PK ,Lego,Art ,Music,0
 JONF,TFTG,PK ,Cheer,Lego,Music,0
 GTLO,CHLO,PK ,Dance,Art ,Music,0
 RUIZ,PTOL,PK ,CLL,Dance,Cheer,0
+DHTE,MHRW,PK ,Soccer,Basketball,Lego Builders,0
+HREQ,VFDD,PK ,Basketball ,Math,Cheer,0
+GFFR,JTDS,PK ,Lego Builders ,Lego,Zoo,0
+RSTR,GRSJ,PK ,MBA,Yoga,Math,0
+SURG,NJUR,PK ,Yoga,Oragami,PE,0
+FRDE,JKLT,PK ,Origami,Spanish,PE,0
+DRGG,MNVC,PK ,Spanish,Book,Soccer,0
+DFRW,FDWA,PK ,Book,Yogo,CLL,0
 BTKF,CTLL,K,CLL,Dance,Cheer,0
 GRIF,TLTI,K,Lego,Cheer,CLL,0
 WFBB,KFTS,K,Art,Dance,Music,0
@@ -48,15 +56,61 @@ CHTN,JTMI,K,CLL,Art ,Music,0
 TLCI,KTIM,K,Math,Art ,Lego,0
 TNDI,TNYT,K,Math,Lego,Cheer,0
 QUIZ,DTNI,K,CLL,Dance,Music,0
-CHTP,JTCO,1,Lego,Dance,Music,1
-TBTC,MIKK,1,Art,Dance,Cheer,1
-MFNT,GTBR,1,Cheer,Dance,Art,1
-MTPP,KTYD,1,Dance,Art ,Lego,0
-JOCS,JOMT,1,Lego,CLL,Music,0
-BLTC,BRFT,1,CLL,Cheer,Art,0
-SHTM,MTRC,1,CLL,Lego,Dance,0
-ROBL,BRYC,1,Lego,Dance,Art,0
-MCCO,RICH,1,Art,Dance,Cheer,0
+JONF,kONF,K,Soccer,Dance,CLL,0
+GTLO,GTLO,K,Basketball ,Soccer,PE,0
+RUIZ,RUIZ,K,Lego,Basketball ,Soccer,0
+DHTE,DHTE,K,MBA,Lego,Basketball ,0
+HREQ,HREQ,K,FLL,MBA,Lego,0
+GFFR,GFFR,K,Yoga,FLL,MBA,0
+RSTR,RSTR,K,Origami,Yoga,FLL,0
+SURG,SURG,K,Spanish,Origami,Yoga,0
+FRDE,HTDX,K,Intro Cheer,Spanish,Origami,0
+DRGG,DRJT,K,Cheer,Intro Cheer,Spanish,0
+DFRW,DFRW,K,Zoo,Cheer,Intro Cheer,0
+BTKF,BTKF,K,Book,Zoo,Cheer,0
+GRWY,RRT4,K,Steam,Book,Zoo,0
+DFG,WFBB,K,Math,Steam,Book,0
+GFFU,rrre,K,Glee,Math,Steam,0
+DFVD,VFER,K,PE,Glee,Math,0
+SDRG,VFDW,K,Cooking,PE,Glee,0
+HRDS,VVFF,K,Art,Cooking,PE,0
+TNDdI,TNYT,K,Math,Lego,Cheer,0
+fdss,DTNI,K,CLL,Dance,Music,0
+FDSD,kONF,K,Soccer,Dance,CLL,0
+DFDS,FDS,K,Basketball ,Soccer,PE,0
+FDD,FDS,K,Lego,Basketball ,Soccer,0
+SSDFF,FES,K,MBA,Lego,Basketball ,0
+SSDFFF,FXZ,K,FLL,MBA,Lego,0
+FEFD,FDWA,K,Yoga,FLL,MBA,0
+RSTR,FDE,K,Origami,Yoga,FLL,0
+FDS,FDD,K,Spanish,Origami,Yoga,0
+FFD,FDS,K,Intro Cheer,Spanish,Origami,0
+FFF,DDE,K,Cheer,Intro Cheer,Spanish,0
+DFRW,FDWA,K,Zoo,Cheer,Intro Cheer,0
+FEGG,BTKFG,K,Book,Zoo,Cheer,0
+GRWY,RRT4G,K,Steam,Book,Zoo,0
+DFG,WFBBG,K,Math,Steam,Book,0
+GFFU,rrreG,K,Glee,Math,Steam,0
+DFVD,VFERG,K,PE,Glee,Math,0
+SDRG,VFDWG,K,Cooking,PE,Glee,0
+HRDS,VVFFG,K,Art,Cooking,PE,0
+DFDS,FDS,1,Basketball ,Soccer,PE,0
+FDD,FDS,1,Lego,Basketball ,Soccer,0
+SSDFF,FES,1,MBA,Lego,Basketball ,0
+SSDFFF,FXZ,1,FLL,MBA,Lego,0
+FEFD,FDWA,1,Yoga,FLL,MBA,0
+RSTR,FDE,1,Origami,Yoga,FLL,0
+FDS,FDD,1,Spanish,Origami,Yoga,0
+FFD,FDS,1,Intro Cheer,Spanish,Origami,0
+FFF,DDE,1,Cheer,Intro Cheer,Spanish,0
+DFRW,FDWA,1,Zoo,Cheer,Intro Cheer,0
+FEGG,BTKFG,1,Book,Zoo,Cheer,0
+GRWY,RRT4G,1,Steam,Book,Zoo,0
+DFG,WFBBG,1,Math,Steam,Book,0
+GFFU,rrreG,1,Glee,Math,Steam,0
+DFVD,VFERG,1,PE,Glee,Math,0
+SDRG,VFDWG,1,Cooking,PE,Glee,0
+HRDS,VVFFG,1,Art,Cooking,PE,0
 MONF,TUBR,1,Lego,CLL,Art,0
 LIU,RONG,1,Cheer,Dance,Art,0
 HTYF,KTRL,1,Dance,Art ,Cheer,0
@@ -118,83 +172,83 @@ GTLL,GTRR,1,Dance,Art ,Cheer,1
 LFT,CHRI,1,Music ,Dance,Cheer,1
 RIVF,DTVI,1,CLL,Dance,Lego,1
 STMU,STFV,1,Lego,Dance,Art,1
-ROUS,SOFI,2,Art,Lego,Cheer,1
-TOMK,MICH,2,Lego,Art ,Music,1
-DOKF,CTBF,2,Cheer,Lego,Music,1
-GRIF,FLLT,2,Dance,Art ,Music,1
-WFNN,STMU,2,CLL,Dance,Cheer,1
-PTTT,FLIJ,2,CLL,Dance,Cheer,1
-BOFI,FMMT,2,Lego,Cheer,CLL,1
-ROMI,COLL,2,Art,Dance,Music,1
-PTYN,CHRI,2,Music ,Dance,Art,1
-CROS,TRIS,2,Cheer,Art ,Lego,0
-ZHFN,FRIC,2,Dance,Art ,Lego,0
-FFRG,FTHT,2,CLL,Lego,Dance,0
-GRTV,CHTR,2,CLL,Dance,Music,0
-DUPL,BLTN,2,Lego,Dance,Music,0
-FRTZ,MCKF,2,Art,Dance,Cheer,0
-KTUF,BRTD,2,Cheer,Dance,Music,0
-BFTT,JTMF,2,Dance,Music,Lego,0
-HFND,FMIL,2,Lego,Dance,Cheer,0
-JULI,MORG,2,CLL,Art ,Music,0
-WICK,HTLF,2,Math,Art ,Music,0
-TYYN,DYLT,2,Music ,Lego,Cheer,0
-TLFO,DTNI,2,CLL,Dance,Music,0
-COLL,DFVI,2,Lego,Dance,Lego,0
-MCCR,JUST,2,Art,Dance,Cheer,0
-MOSS,TTYL,2,Cheer,Dance,Music,0
-BOST,TTKF,2,Dance,Dance,Music,0
-TNDF,RTFV,2,Lego,Dance,Cheer,0
-TLI,RTYT,2,CLL,Art ,Music,0
-RTYK,BFNJ,2,Math,Art ,Lego,0
-FFFN,KFVI,2,Music ,Lego,Cheer,0
-GFFR,GISF,2,CLL,Dance,Music,0
-ZOU,DTNI,2,Lego,Dance,Lego,0
-FRFF,WFND,2,Art,Dance,Cheer,0
-HTRR,JUST,2,Cheer,Dance,Music,0
-CTWL,DTVI,2,Dance,Cheer ,Music,0
-HTYF,VICT,2,Lego,Dance,Cheer,0
-BFLL,RIVF,2,CLL,Art ,Music,0
-COHF,NTTL,2,Math,Art ,Lego,0
-PLFI,LUKF,2,Math,Lego,Cheer,0
-PTRR,JTCK,2,CLL,Dance,Music,0
-POLI,LILY,2,Lego,Dance,Music,0
-IM,JF-W,2,Art,Dance,Cheer,0
-COFN,WILL,2,Cheer,Dance,Art,0
-OLSO,JOHN,2,Dance,Art ,Lego,0
-DOYL,KTTH,2,Lego,CLL,Music,0
-MCLT,RYTN,2,CLL,Cheer,Art,0
-GILK,BROD,2,CLL,Lego,Dance,0
-GTLT,GLFN,2,Lego,Dance,Art,0
-TISH,STMT,2,Art,Dance,Cheer,0
-PFRF,CHFL,2,Lego,CLL,Art,0
-WILL,LFVI,2,Cheer,Dance,Art,0
-SMIT,JTCO,2,Dance,Art ,Cheer,0
-O¿NF,JONT,2,Music ,Dance,Cheer,0
-FNGF,HOWT,2,CLL,Dance,Lego,0
-COOK,GTRY,2,Lego,Dance,Art,0
-SILB,CHRI,2,Art,Lego,Cheer,0
-WTSH,JTDF,2,Lego,Art ,Music,0
-PTRN,CHTS,2,Cheer,Lego,Music,0
-MILF,CHRI,2,Dance,Art ,Music,0
-OGLF,NOTH,2,CLL,Dance,Cheer,0
-MTRT,TYLF,2,CLL,Dance,Cheer,0
-PTCF,TVT,2,Lego,Cheer,CLL,0
-STFW,BFNJ,2,Art,Dance,Music,0
-GUNT,FGTN,2,Music ,Dance,Art,0
-STFP,TDRI,2,Cheer,Art ,Lego,0
-KING,TNDR,2,Dance,Art ,Lego,0
-GILL,JTCK,2,CLL,Lego,Dance,1
-LOTT,FISH,2,CLL,Dance,Music,1
-BROW,GFOR,2,Lego,Dance,Music,0
-GROG,TUDR,2,Art,Dance,Cheer,0
-LTMB,FTHT,2,Cheer,Dance,Music,0
-GTRR,RYTN,2,Dance,Music,Lego,0
-SPFN,FTHT,2,Lego,Dance,Cheer,0
-VTN,MTDI,2,CLL,Art ,Music,0
-TIMS,JONT,2,Math,Art ,Music,1
-BFTS,FDFN,2,Music ,Lego,Cheer,1
-PLUM,PFYT,2,CLL,Dance,Music,1
-PFTB,NTDI,2,Lego,Dance,Lego,1
-STFI,NTTT,2,Art,Dance,Cheer,1
-BRYT,TNNT,2,Cheer,Dance,Music,1
+ROUS,SOFI,2,Basketball ,Soccer,PE,1
+TOMK,MICH,2,Lego,Basketball ,Soccer,1
+DOKF,CTBF,2,MBA,Lego,Basketball ,1
+GRIF,FLLT,2,FLL,MBA,Lego,1
+WFNN,STMU,2,Yoga,FLL,MBA,1
+PTTT,FLIJ,2,Origami,Yoga,FLL,1
+BOFI,FMMT,2,Spanish,Origami,Yoga,1
+ROMI,COLL,2,Intro Cheer,Spanish,Origami,1
+PTYN,CHRI,2,Cheer,Intro Cheer,Spanish,1
+CROS,TRIS,2,Zoo,Cheer,Intro Cheer,0
+ZHFN,FRIC,2,Book,Zoo,Cheer,0
+FFRG,FTHT,2,Steam,Book,Zoo,0
+GRTV,CHTR,2,Math,Steam,Book,0
+DUPL,BLTN,2,Glee,Math,Steam,0
+FRTZ,MCKF,2,PE,Glee,Math,0
+KTUF,BRTD,2,Cooking,PE,Glee,0
+BFTT,JTMF,2,Art,Cooking,PE,0
+HFND,FMIL,2,Lego,CLL,Art,0
+JULI,MORG,2,Cheer,Dance,Art,0
+WICK,HTLF,2,Dance,Art ,Cheer,0
+TYYN,DYLT,2,Music ,Dance,Cheer,0
+TLFO,DTNI,2,CLL,Dance,Lego,0
+COLL,DFVI,2,Lego,Dance,Art,0
+MCCR,JUST,2,Art,Lego,Cheer,0
+MOSS,TTYL,2,Lego,Art ,Music,0
+BOST,TTKF,2,Cheer,Lego,Music,0
+TNDF,RTFV,2,Dance,Art ,Music,0
+TLI,RTYT,2,CLL,Dance,Cheer,0
+RTYK,BFNJ,2,CLL,Dance,Cheer,0
+FFFN,KFVI,2,Basketball ,Soccer,PE,0
+GFFR,GISF,2,Lego,Basketball ,Soccer,0
+ZOU,DTNI,2,MBA,Lego,Basketball ,0
+FRFF,WFND,2,FLL,MBA,Lego,0
+HTRR,JUST,2,Yoga,FLL,MBA,0
+CTWL,DTVI,2,Origami,Yoga,FLL,0
+HTYF,VICT,2,Spanish,Origami,Yoga,0
+BFLL,RIVF,2,Intro Cheer,Spanish,Origami,0
+COHF,NTTL,2,Cheer,Intro Cheer,Spanish,0
+PLFI,LUKF,2,Zoo,Cheer,Intro Cheer,0
+PTRR,JTCK,2,Book,Zoo,Cheer,0
+POLI,LILY,2,Steam,Book,Zoo,0
+IM,JF-W,2,Math,Steam,Book,0
+COFN,WILL,2,Glee,Math,Steam,0
+OLSO,JOHN,2,PE,Glee,Math,0
+DOYL,KTTH,2,Cooking,PE,Glee,0
+MCLT,RYTN,2,Art,Cooking,PE,0
+GILK,BROD,2,Lego,CLL,Art,0
+GTLT,GLFN,2,Cheer,Dance,Art,0
+TISH,STMT,2,Dance,Art ,Cheer,0
+PFRF,CHFL,2,Music ,Dance,Cheer,0
+WILL,LFVI,2,CLL,Dance,Lego,0
+SMIT,JTCO,2,Lego,Dance,Art,0
+O¿NF,JONT,2,Art,Lego,Cheer,0
+FNGF,HOWT,2,Lego,Art ,Music,0
+COOK,GTRY,2,Cheer,Lego,Music,0
+SILB,CHRI,2,Dance,Art ,Music,0
+WTSH,JTDF,2,CLL,Dance,Cheer,0
+PTRN,CHTS,2,CLL,Dance,Cheer,0
+MILF,CHRI,2,Basketball ,Soccer,PE,0
+OGLF,NOTH,2,Lego,Basketball ,Soccer,0
+MTRT,TYLF,2,MBA,Lego,Basketball ,0
+PTCF,TVT,2,FLL,MBA,Lego,0
+STFW,BFNJ,2,Yoga,FLL,MBA,0
+GUNT,FGTN,2,Origami,Yoga,FLL,0
+STFP,TDRI,2,Spanish,Origami,Yoga,0
+KING,TNDR,2,Intro Cheer,Spanish,Origami,0
+GILL,JTCK,2,Cheer,Intro Cheer,Spanish,1
+LOTT,FISH,2,Zoo,Cheer,Intro Cheer,1
+BROW,GFOR,2,Book,Zoo,Cheer,0
+GROG,TUDR,2,Steam,Book,Zoo,0
+LTMB,FTHT,2,Math,Steam,Book,0
+GTRR,RYTN,2,Glee,Math,Steam,0
+SPFN,FTHT,2,PE,Glee,Math,0
+VTN,MTDI,2,Cooking,PE,Glee,0
+TIMS,JONT,2,Art,Cooking,PE,1
+BFTS,FDFN,2,Lego,CLL,Art,1
+PLUM,PFYT,2,Cheer,Dance,Art,1
+PFTB,NTDI,2,Dance,Art ,Cheer,1
+STFI,NTTT,2,Music ,Dance,Cheer,1
+BRYT,TNNT,2,CLL,Dance,Lego,1
